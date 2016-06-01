@@ -1,10 +1,6 @@
 Jiggl
 =====
 
-[![Travis](https://img.shields.io/travis/angusfretwell/jiggl/master.svg)](https://travis-ci.org/angusfretwell/jiggl)
-[![Code Climate](https://img.shields.io/codeclimate/github/angusfretwell/jiggl.svg)](https://codeclimate.com/github/angusfretwell/jiggl)
-[![Codecov](https://img.shields.io/codecov/c/github/angusfretwell/jiggl.svg)](https://codecov.io/github/angusfretwell/jiggl)
-
 Creates Toggl tasks from Jira tickets, and syncs time tracked in Toggl back to Jira.
 
 Development
