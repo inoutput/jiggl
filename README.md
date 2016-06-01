@@ -7,8 +7,6 @@ Jiggl
 
 Creates Toggl tasks from Jira tickets, and syncs time tracked in Toggl back to Jira.
 
-![](http://i.imgur.com/MVSfOkZ.gif)
-
 Development
 -----------
 
@@ -55,4 +53,4 @@ License
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Angus Fretwell
+Copyright (c) 2016 inoutput
